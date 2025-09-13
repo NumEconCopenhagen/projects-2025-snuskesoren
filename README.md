@@ -1,7 +1,9 @@
 # [Group name]
 
 **Group members:**
-Søren, Snuske
+- A
+- B
+- C
 
 **This repository contains:***
 
